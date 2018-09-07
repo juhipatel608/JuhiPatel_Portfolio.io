@@ -2,6 +2,22 @@
   "dependencies": {
     "bootstrap-validator": "^0.11.9"
   },
-  "name": "",
-  "version": ""
+  "name": "index-video",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juhipatel608/JuhiPatel_Portfolio.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juhipatel608/JuhiPatel_Portfolio.io/issues"
+  },
+  "homepage": "https://github.com/juhipatel608/JuhiPatel_Portfolio.io#readme",
+  "description": ""
 }
